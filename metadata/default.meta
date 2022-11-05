@@ -33,3 +33,9 @@ export = system
 [viewstates]
 access = read : [ * ], write : [ * ]
 export = system
+
+
+[views/splunk_apps_theme_manager]
+owner = admin
+version = 9.0.1
+modtime = 1667677383.499900700
